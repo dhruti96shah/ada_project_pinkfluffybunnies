@@ -10,7 +10,7 @@ We aim to build a story around the data, which would help us understand and glea
     - based on the product category
     - based on demographics
     - based on the time of the year (seasonal patterns)
-- Customer point of view:  how profitable are discount campaigns for consumers? <br/>
+- Customer point of view:  how profitable are discount campaigns for consumers? <p>
 We will try and illustrate the conclusions drawn from the previous questions by building a data story around some products and their campaigns over time.
 
 ## Dataset
@@ -20,10 +20,10 @@ We are going to work with the Dunnhumby dataset. This dataset contains  househol
 11.11
 - Set up a project repository on GitHub
 - Download the dataset and understand the different tables and their relations (schema analysis)
-- Run a basic exploratory analysis on the content of the tables (instance analysis): study the distributions, look for mistakes and outliers <br/>
+- Run a basic exploratory analysis on the content of the tables (instance analysis): study the distributions, look for mistakes and outliers <p>
 18.11
 - Combine multiple tables to get more insights into the data
-- Look for efficient ways to visualize our results <br/>
+- Look for efficient ways to visualize our results <p>
 25.11
 - Add documentation and cleanup the code
 - Choose background story on which to base our insights
