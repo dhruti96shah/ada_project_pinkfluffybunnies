@@ -8,7 +8,7 @@ Using the transactions data about various products and timelines, as well as dem
 - Based on how much percentage of total spending is on meat based products and how much on produce, can we use basic machine learning techniques like clustering to decide which customers lean more towards vegetarianism?
 - Based on the consumption of gas per family, can we glean whether the family owns a car, or maybe regularly rent cars, and whether to target them for gas based coupons?
 - Does family income affect the buying of organic food?
-- How many weeks before Halloween do customers like to shop, so that the stores should stock up by then.
+- How many weeks before Halloween do customers like to shop, so that the stores should stock up by then. \
 We will try and explore the above questions by using data from the different tables available.
 
 ## Dataset
