@@ -1,4 +1,4 @@
-# What does your shopping say about you?
+# Sales strategy analysis
 
 ## Abstract
 The world of retail is always changing and coming up with different strategies to entice consumers. Different advertising strategies include ad campaigns in magazines, store campaigns, coupons among other ways. These strategies depend on the target demographic, the product being marketed, and even the season of the year. Through our project we try to analyse these trends and show using data how stores can benefit more through smarter advertising. \
