@@ -13,9 +13,15 @@ We will try and explore the above questions by using data from the different tab
 ## Dataset
 We are going to work with the Dunnhumby dataset. This dataset contains  household level transactions over two years from a group of 2,500 households who are frequent shoppers at  a retailer. It contains all of each household’s purchases, not just those from a limited number of categories. For certain households, demographic information as well as direct marketing contact history are included. There are a number of tables, which when joined appropriately can reveal various insights about the data.
 
-## On the road to milestone 3
-1. Further analyse for statistical robustness of our findings.
-2. Research better visualization techniques for our figures, which can convey our findings clearly and in an aesthetic manner.
-3. Report: define sections content and which plots are significant to include in the final version.
+## Milestone 3
+Some of the plots on our notebook use plotly and can be visualized here: https://nbviewer.jupyter.org/github/dhruti96shah/ada_project_pinkfluffybunnies/blob/master/ada%20project.ipynb
 
+Link to out datastory: https://roele1955.github.io/datastory/index.html
 
+All team members worked together on most of the task but in particular:
+- Dhruti Shah: data visualization and interactive plots
+- Alexander Cadillon: analysis of campaign success
+- Alexander Reynaud: analysis of correlation between success of coupons and demographic informations
+- Eleonora Rocchi: development of the data story
+
+All of us will work on the poster and Dhruti will talk in the final presentation.
